@@ -8,3 +8,4 @@
 # link is clicked, the page jumps directly to the contact form.
 # contact form includes `input` elements for name and email.
 # contact form includes a Send button.
+# The image includes a descriptive `alt` attribute.
