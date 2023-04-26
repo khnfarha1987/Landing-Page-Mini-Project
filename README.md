@@ -13,3 +13,6 @@
 # Application screenshots:
 ![alt](./images/image-2.png)
 ![alt](./images/image-3.png)
+
+# Application URL:
+https://khnfarha1987.github.io/Landing-Page-Mini-Project/
