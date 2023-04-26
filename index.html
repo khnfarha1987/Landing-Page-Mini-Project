@@ -14,50 +14,48 @@
 <body>
     <!--header section-->
     <header>
-        <nav>
+        <nav class="text-right">
             <ul>
-                <li><a href="">Github</a></li>
-                <li><a href="">Portfolio</a></li>
-                <li><a href="">contact</a></li>
+                <li><a href="https://github.com/">Github</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
     <!--end of header section-->
 
-    <!--main section-->
-    <main>
-        <!--section-1-->
-        <section>
-            <h1>My New Website</h1>
-            <img src="./images/image-1.png" alt="">
-            <p>This is my first Landing-Page Mini project.</p>
-        </section>
-        <!--section-2-->
-        <section>
-            <h2>Contact Me</h2>
+    <!--section-1-->
+    <section class="section-1">
+        <h1>My New Website</h1>
+        <img src="./images/image-1.png" alt="">
+        <p>This is my first Landing-Page Mini project. I used semantic HTML elements and CSS with styled properties.</p>
+    </section>
+
+    <!--section-2-->
+    <section id="section-2">
+        <h2>Contact Me</h2>
+        <div id="contact">
             <form>
                 <ul>
                     <li>
-                        <label for="name">Name:</label>
+                        <label class="label" for="name">Name:</label>
                         <input type="text" name="user-name">
                     </li>
                     <li>
-                        <label for="email">Email:</label>
+                        <label class="label" for="email">Email:</label>
                         <input type="text" name="user-email">
                     </li>
                 </ul>
-                <div>
+                <div class="text-center">
                     <button type="submit">SEND</button>
-                </div>
             </form>
-        </section>
-        <!--end of main section-->
-    </main>
-
+        </div>
+        </div>
+    </section>
 
 
     <!--footer section-->
-    <footer>
+    <footer class="text-content">
         © 2023 My New Website Productions
     </footer>
 </body>
