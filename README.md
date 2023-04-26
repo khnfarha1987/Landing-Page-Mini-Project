@@ -11,5 +11,5 @@
 # The image includes a descriptive `alt` attribute.
 
 # Application screenshots:
-![alt](./images/imgage-1.png)
-![alt](./images/images-2.png)
+![alt](../images/imgage-1.png)
+![alt](../images/image-2.png)
