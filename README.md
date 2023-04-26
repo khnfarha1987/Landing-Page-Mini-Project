@@ -5,3 +5,4 @@
 # I used a differnt font and font family for text.
 # I used two heading elements (`<h1>` through `<h2>`).
 # I made header with contains a navigation bar with three links that display inline, including a contact link.
+# link is clicked, the page jumps directly to the contact form.
